@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Reddit URL Modifier",
+  "version": "1.0",
+  "description": "Removes '?tl=de' from Reddit URLs.",
+  "permissions": ["webNavigation", "tabs", "*://*.reddit.com/*"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
