@@ -11,7 +11,7 @@ This extension disables reddit's automatic translation feature simply by removin
 
 ## Installation
 
-1. Download the latest release from the [releases page]() and save the xpi file to your computer.
+1. Download the latest release from the [releases page](https://github.com/rustyGrapefruit/Disable-Auto-Translate-Reddit/releases) and save the xpi file to your computer.
 2. Open Firefox and navigate to `about:addons`.
 3. Click on the gear icon in the top right corner and select `Install Add-on From File...`.
 4. Select the xpi file you downloaded in step 1.
@@ -20,4 +20,4 @@ This extension disables reddit's automatic translation feature simply by removin
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rustyGrapefruit/Disable-Auto-Translate-Reddit/blob/main/LICENSE) file for details.
